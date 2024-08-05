@@ -24,5 +24,19 @@ The repository contains various projects under the DeepLense initiative.
 | Super Resolution | [Project Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Super_Resolution_Pranath_Reddy) | 2024 | Pranath Reddy |
 | Transformers Classification DeepLense | [Project Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Transformers_Classification_DeepLense_Kartik_Sachdev) | 2024 | Kartik Sachdev |
 
+# DeepLense Papers
+
+A significant amount of work under DeepLense has been published at top conferences and workshops, with several papers receiving acceptance.
+
+| Project Name | Paper |
+|--------------|-------|
+| DeepLense Gravitational Lensing | [Paper Link](https://github.com/ghatotkachhh/DeepLense/tree/main/DeepLense_Gravitational_Lensing_Mriganka_Nath) |
+| Deeplense Self Supervised Learning | [Paper Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Deeplens_Self_Supervised_Learning_Yashwardhan_Deshmukh) |
+| Domain Adaptation for DeepLense | [Paper Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Domain_Adaptation_for_DeepLense_Marcos_Tidball) |
+| Equivariant Neural Networks for DeepLense | [Paper Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Equivariant_Neural_Networks_for_DeepLense_Apoorva_Singh) |
+| Physics Informed Transformers for Dark-Matter Morphology | [Paper Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Physics_Informed_Transformers_For_Dark-Matter_Morphology_Lucas_Jose) |
+| Super Resolution | [Paper Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Super_Resolution_Pranath_Reddy) |
+| Transformers Classification DeepLense | [Paper Link](https://github.com/ghatotkachhh/DeepLense/tree/main/Transformers_Classification_DeepLense_Kartik_Sachdev) |
+
 
 
