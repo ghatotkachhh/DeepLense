@@ -50,5 +50,7 @@ The DeepLense datasets include simulated data with and without real galaxy data,
 | MODEL_IV   | [Dataset Link](https://github.com/mwt5345/DeepLenseSim/tree/main/Model_IV) |
 | MODEL_V    | [Dataset Link](#) |
 
+Deeplense also has its own framework for making synthetic datasets which can be found at the [link](https://github.com/mwt5345/DeepLenseSim/tree/main/deeplense).
+
 
 
