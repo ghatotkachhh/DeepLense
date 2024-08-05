@@ -5,19 +5,18 @@ DeepLense is a deep learning framework dedicated to searching for particle dark 
 
 This repository contains various projects under the DeepLense initiative. Below is a summary of the projects.
 
-| Project Name | Description |
-|--------------|-------------|
-| ghatotkachhh | [Project Description] |
-| .vscode | [Project Description] |
-| DeepLense_Classification_Transformers_Archil_Srivastava | [Project Description] |
-| DeepLense_Gravitational_Lensing_Mriganka_Nath | [Project Description] |
-| DeepLense_Physics_Informed_Neural_Network_for_Dark_Matter_Morphology_Ashutosh_Ojha | [Project Description] |
-| DeepLense_Regression_Yurii_Halychanskyi | [Project Description] |
-| DeepLense_Regression_Zhongchao_Guan | [Project Description] |
-| Deeplens_Self_Supervised_Learning_Yashwardhan_Deshmukh | [Project Description] |
-| Domain_Adaptation_for_DeepLense_Marcos_Tidball | [Project Description] |
-| Equivariant_Neural_Networks_for_DeepLense_Apoorva_Singh | [Project Description] |
-| Equivariant_Neural_Networks_for_DeepLense_GEO | [Project Description] |
-| Physics_Informed_Transformers_For_Dark-Matter_Morphology_Lucas_Jose | [Project Description] |
-| Super_Resolution_Pranath_Reddy | [Project Description] |
-| Transformers_Classification_DeepLense_Kartik_Sachdev | [Project Description] |
+| Project Name | Description | Year |
+|--------------|-------------|------|
+| DeepLense_Classification_Transformers_Archil_Srivastava | [Project Description] | 2024 |
+| DeepLense_Gravitational_Lensing_Mriganka_Nath | [Project Description] | 2024 |
+| DeepLense_Physics_Informed_Neural_Network_for_Dark_Matter_Morphology_Ashutosh_Ojha | [Project Description] | 2024 |
+| DeepLense_Regression_Yurii_Halychanskyi | [Project Description] | 2024 |
+| DeepLense_Regression_Zhongchao_Guan | [Project Description] | 2024 |
+| Deeplens_Self_Supervised_Learning_Yashwardhan_Deshmukh | [Project Description] | 2024 |
+| Domain_Adaptation_for_DeepLense_Marcos_Tidball | [Project Description] | 2024 |
+| Equivariant_Neural_Networks_for_DeepLense_Apoorva_Singh | [Project Description] | 2024 |
+| Equivariant_Neural_Networks_for_DeepLense_GEO | [Project Description] | 2024 |
+| Physics_Informed_Transformers_For_Dark-Matter_Morphology_Lucas_Jose | [Project Description] | 2024 |
+| Super_Resolution_Pranath_Reddy | [Project Description] | 2024 |
+| Transformers_Classification_DeepLense_Kartik_Sachdev | [Project Description] | 2024 |
+
